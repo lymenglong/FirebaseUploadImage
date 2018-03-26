@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557218964574",
+    "firebase_url": "https://fireuploadimagetest-12e05.firebaseio.com",
+    "project_id": "fireuploadimagetest-12e05",
+    "storage_bucket": "fireuploadimagetest-12e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557218964574:android:eed7634c7bea201b",
+        "android_client_info": {
+          "package_name": "com.tabian.firebaseuploadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557218964574-d7bqnmfhi1vjh13li311liu6qdkcfjek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabian.firebaseuploadimage",
+            "certificate_hash": "f8c1d0991967bd0edc63fa7b533c193c3b139161"
+          }
+        },
+        {
+          "client_id": "557218964574-gkgefah1qbqtmv2l16ededpg77p0a8a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKwxa93sk8ShV7JjdGlOlq2PPu-tFcuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557218964574-gkgefah1qbqtmv2l16ededpg77p0a8a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
